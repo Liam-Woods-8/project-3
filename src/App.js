@@ -18,7 +18,7 @@ function App() {
           <div className="park-activities">Activities</div>
           <div className="park-details">Park Details</div>
         </div>
-      </header>
+      </main>
     </div>
   );
 }
