@@ -16,6 +16,7 @@ function App() {
         <div className="grid-container">
           <div className="park-name-location">Park Name and Location</div>
           <div className="park-activities">Activities</div>
+          <div className="facts">Quick Facts</div>
           <div className="park-details">Park Details</div>
         </div>
       </main>

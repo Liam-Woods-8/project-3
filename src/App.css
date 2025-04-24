@@ -59,6 +59,11 @@ body {
   padding: 20px;
 }
 
+.facts {
+  background-color: lightblue;
+  margin: 5px;
+}
+
 .grid-container > div {
   border: 1px solid #ccc;
   background-color: white;
